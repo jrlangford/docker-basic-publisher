@@ -22,7 +22,7 @@ Send a test message from the messenger container
 
 Verify the broker received the message
 	
-	Access the rabbitmq server container
+	From the docker host, access the rabbitmq server container
 
 		`docker exec -it jserver bash`
 	
